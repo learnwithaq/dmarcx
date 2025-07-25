@@ -13,5 +13,8 @@ A command-line tool built in Python to check the **DMARC**, **SPF**, and **DKIM*
 - 🧠 Simple CLI interface
 - 🎨 Colored terminal output using `termcolor`
 - 🔓 Open-source (GPLv3)
-
 ---
+
+## 📸 Screenshot
+
+<img src="https://github.com/learnwithaq/dmarcx/blob/main/screenshot.png" />
